@@ -28,8 +28,8 @@
     "styled-components": "5.3.3"
   },
   "engines": {
-    "node": ">=18.0.0 <=20.x.x",
-    "yarn": ">=1.x.x"
+    "node": "20.x.x",
+    "yarn": "1.22.x"
   },
   "strapi": {
     "uuid": "f9500971-a71e-4818-ba65-22346a27b4b0"
